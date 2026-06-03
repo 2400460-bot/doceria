@@ -1,0 +1,509 @@
+{"_e":"root:init","_t":1780520652796,"format":"v0-jsonl","version":"56.1.13"}
+{"_e":"env:mode","_t":1780520652797,"nodeEnv":"development","babelEnv":"development","mode":"development"}
+{"_e":"env:load","_t":1780520652799,"mode":"development","files":[],"env":{}}
+{"_e":"devserver:start","_t":1780520654844,"mode":"development","web":true,"baseUrl":"","asyncRoutes":false,"routerRoot":"../../../app","serverComponents":false,"serverActions":false,"serverRendering":false,"apiRoutes":false,"exporting":false}
+{"_e":"metro:config","_t":1780520655074,"serverRoot":"../../..","projectRoot":"../../..","exporting":false,"flags":{"autolinkingModuleResolution":false,"serverActions":false,"serverComponents":false,"reactCompiler":false,"optimizeGraph":false,"treeshaking":false,"logbox":false}}
+{"_e":"metro:instantiate","_t":1780520657075,"atlas":false,"workers":6,"host":"::","port":8082}
+{"_e":"root:init","_t":1780520674308,"format":"v0-jsonl","version":"56.1.13"}
+{"_e":"env:mode","_t":1780520674310,"nodeEnv":"development","babelEnv":"development","mode":"development"}
+{"_e":"env:load","_t":1780520674313,"mode":"development","files":[],"env":{}}
+{"_e":"devserver:start","_t":1780520676911,"mode":"development","web":true,"baseUrl":"","asyncRoutes":false,"routerRoot":"../../../app","serverComponents":false,"serverActions":false,"serverRendering":false,"apiRoutes":false,"exporting":false}
+{"_e":"metro:config","_t":1780520677190,"serverRoot":"../../..","projectRoot":"../../..","exporting":false,"flags":{"autolinkingModuleResolution":false,"serverActions":false,"serverComponents":false,"reactCompiler":false,"optimizeGraph":false,"treeshaking":false,"logbox":false}}
+{"_e":"metro:instantiate","_t":1780520679523,"atlas":false,"workers":6,"host":"::","port":8082}
+{"_e":"metro:bundling:started","_t":1780520680061,"id":"1","platform":"web","environment":null,"entry":"index.ts"}
+{"_e":"metro:bundling:progress","_t":1780520680063,"id":"1","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1780520680071,"id":"1","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1780520680605,"id":"1","progress":0.010000000000000002,"total":1,"current":1}
+{"_e":"metro:bundling:failed","_t":1780520680620,"id":"1","message":"Unable to resolve \"/./paginas/direct\" from \"index.ts\"\n  1 | import { registerRootComponent } from 'expo';\n> 2 | import App from '/./paginas/direct';\n    |                  ^\n  3 |  \n  4 | registerRootComponent(App);","importStack":"\u001b[1mImport stack:\u001b[22m\n\n\u001b[90m \u001b[39mindex.ts\n\u001b[90m |\u001b[39m \u001b[36mimport\u001b[39m \u001b[32m\"/./paginas/direct\"\u001b[39m\n\n\u001b[90m \u001b[39m\n\u001b[90m |\u001b[39m \u001b[36mimport\u001b[39m \u001b[32m\"./index.ts\"\u001b[39m\n","filename":null,"targetModuleName":"../../../../paginas/direct","originModulePath":"index.ts"}
+{"_e":"metro:bundling:started","_t":1780520727877,"id":"3","platform":"web","environment":null,"entry":"index.ts"}
+{"_e":"metro:bundling:progress","_t":1780520727878,"id":"3","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1780520727888,"id":"3","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1780520727990,"id":"3","progress":0.010000000000000002,"total":3,"current":1}
+{"_e":"metro:bundling:progress","_t":1780520728021,"id":"3","progress":0.04000000000000001,"total":3,"current":2}
+{"_e":"metro:bundling:progress","_t":1780520728493,"id":"3","progress":0.09,"total":3,"current":3}
+{"_e":"metro:bundling:progress","_t":1780520728594,"id":"3","progress":0.17361111111111113,"total":12,"current":5}
+{"_e":"metro:bundling:progress","_t":1780520728695,"id":"3","progress":0.27700831024930744,"total":19,"current":10}
+{"_e":"metro:bundling:progress","_t":1780520728796,"id":"3","progress":0.37051039697542537,"total":23,"current":14}
+{"_e":"metro:bundling:progress","_t":1780520728896,"id":"3","progress":0.4624000000000001,"total":25,"current":17}
+{"_e":"metro:bundling:progress","_t":1780520729015,"id":"3","progress":0.4624000000000001,"total":28,"current":19}
+{"_e":"metro:bundling:progress","_t":1780520729142,"id":"3","progress":0.5166015625,"total":32,"current":23}
+{"_e":"metro:bundling:progress","_t":1780520729242,"id":"3","progress":0.5166015625,"total":35,"current":24}
+{"_e":"metro:bundling:progress","_t":1780520729343,"id":"3","progress":0.5166015625,"total":37,"current":26}
+{"_e":"metro:bundling:progress","_t":1780520729462,"id":"3","progress":0.5166015625,"total":46,"current":30}
+{"_e":"metro:bundling:progress","_t":1780520729575,"id":"3","progress":0.5233137166138525,"total":47,"current":34}
+{"_e":"metro:bundling:progress","_t":1780520729676,"id":"3","progress":0.626736111111111,"total":48,"current":38}
+{"_e":"metro:bundling:progress","_t":1780520729780,"id":"3","progress":0.6400000000000001,"total":50,"current":40}
+{"_e":"metro:bundling:progress","_t":1780520729880,"id":"3","progress":0.7575445816186557,"total":54,"current":47}
+{"_e":"metro:bundling:progress","_t":1780520729981,"id":"3","progress":0.8992271105826397,"total":58,"current":55}
+{"_e":"metro:bundling:progress","_t":1780520730081,"id":"3","progress":0.8992271105826397,"total":61,"current":57}
+{"_e":"metro:bundling:progress","_t":1780520730181,"id":"3","progress":0.8992271105826397,"total":91,"current":61}
+{"_e":"metro:bundling:progress","_t":1780520730283,"id":"3","progress":0.8992271105826397,"total":97,"current":69}
+{"_e":"metro:bundling:progress","_t":1780520730383,"id":"3","progress":0.8992271105826397,"total":102,"current":77}
+{"_e":"metro:bundling:progress","_t":1780520730483,"id":"3","progress":0.8992271105826397,"total":102,"current":85}
+{"_e":"metro:bundling:progress","_t":1780520730583,"id":"3","progress":0.8992271105826397,"total":110,"current":99}
+{"_e":"metro:bundling:progress","_t":1780520730683,"id":"3","progress":0.8992271105826397,"total":117,"current":108}
+{"_e":"metro:bundling:progress","_t":1780520730802,"id":"3","progress":0.8992271105826397,"total":128,"current":117}
+{"_e":"metro:bundling:progress","_t":1780520730913,"id":"3","progress":0.8992271105826397,"total":130,"current":120}
+{"_e":"metro:bundling:progress","_t":1780520731017,"id":"3","progress":0.8992271105826397,"total":131,"current":123}
+{"_e":"metro:bundling:progress","_t":1780520731117,"id":"3","progress":0.8992271105826397,"total":143,"current":131}
+{"_e":"metro:bundling:progress","_t":1780520731225,"id":"3","progress":0.9189536266349584,"total":145,"current":139}
+{"_e":"metro:bundling:progress","_t":1780520731326,"id":"3","progress":0.9189536266349584,"total":152,"current":145}
+{"_e":"metro:bundling:progress","_t":1780520731426,"id":"3","progress":0.9189536266349584,"total":159,"current":152}
+{"_e":"metro:bundling:progress","_t":1780520731527,"id":"3","progress":0.9512269471117207,"total":162,"current":158}
+{"_e":"metro:bundling:progress","_t":1780520731628,"id":"3","progress":0.9512269471117207,"total":175,"current":162}
+{"_e":"metro:bundling:progress","_t":1780520731728,"id":"3","progress":0.9886040816326531,"total":175,"current":174}
+{"_e":"metro:bundling:progress","_t":1780520733916,"id":"3","progress":0.999,"total":175,"current":175}
+{"_e":"metro:bundling:progress","_t":1780520734017,"id":"3","progress":0.999,"total":179,"current":177}
+{"_e":"metro:bundling:progress","_t":1780520734051,"id":"3","progress":0.999,"total":179,"current":178}
+{"_e":"metro:bundling:progress","_t":1780520734151,"id":"3","progress":0.999,"total":179,"current":179}
+{"_e":"metro:bundling:failed","_t":1780520734161,"id":"3","message":"Unable to resolve \"@react-navigation/native\" from \"paginas/direct.tsx\"\n  1 | import React from 'react';\n> 2 | import { NavigationContainer } from '@react-navigation/native';\n    |                                      ^\n  3 | import { createNativeStackNavigator } from '@react-navigation/native-stack';\n  4 |\n  5 | import Logintela from './login';","importStack":"\u001b[1mImport stack:\u001b[22m\n\n\u001b[90m \u001b[39mpaginas/direct.tsx\n\u001b[90m |\u001b[39m \u001b[36mimport\u001b[39m \u001b[32m\"@react-navigation/native\"\u001b[39m\n\n\u001b[90m \u001b[39mindex.ts\n\u001b[90m |\u001b[39m \u001b[36mimport\u001b[39m \u001b[32m\"./paginas/direct\"\u001b[39m\n\n\u001b[90m \u001b[39m\n\u001b[90m |\u001b[39m \u001b[36mimport\u001b[39m \u001b[32m\"./index.ts\"\u001b[39m\n","filename":null,"targetModuleName":"@react-navigation/native","originModulePath":"paginas/direct.tsx"}
+{"_e":"metro:bundling:started","_t":1780520735502,"id":"7","platform":"web","environment":null,"entry":"index.ts"}
+{"_e":"metro:bundling:progress","_t":1780520735502,"id":"7","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1780520735508,"id":"7","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1780520735608,"id":"7","progress":0.12098298676748581,"total":46,"current":16}
+{"_e":"metro:bundling:progress","_t":1780520735718,"id":"7","progress":0.6154131985731272,"total":116,"current":91}
+{"_e":"metro:bundling:progress","_t":1780520735814,"id":"7","progress":0.8530574845679013,"total":144,"current":133}
+{"_e":"metro:bundling:failed","_t":1780520735893,"id":"7","message":"Unable to resolve \"@react-navigation/native\" from \"paginas/direct.tsx\"\n  1 | import React from 'react';\n> 2 | import { NavigationContainer } from '@react-navigation/native';\n    |                                      ^\n  3 | import { createNativeStackNavigator } from '@react-navigation/native-stack';\n  4 |\n  5 | import Logintela from './login';","importStack":"\u001b[1mImport stack:\u001b[22m\n\n\u001b[90m \u001b[39mpaginas/direct.tsx\n\u001b[90m |\u001b[39m \u001b[36mimport\u001b[39m \u001b[32m\"@react-navigation/native\"\u001b[39m\n\n\u001b[90m \u001b[39mindex.ts\n\u001b[90m |\u001b[39m \u001b[36mimport\u001b[39m \u001b[32m\"./paginas/direct\"\u001b[39m\n\n\u001b[90m \u001b[39m\n\u001b[90m |\u001b[39m \u001b[36mimport\u001b[39m \u001b[32m\"./index.ts\"\u001b[39m\n","filename":null,"targetModuleName":"@react-navigation/native","originModulePath":"paginas/direct.tsx"}
+{"_e":"root:init","_t":1780520769022,"format":"v0-jsonl","version":"56.1.13"}
+{"_e":"env:mode","_t":1780520769023,"nodeEnv":"development","babelEnv":"development","mode":"development"}
+{"_e":"env:load","_t":1780520769025,"mode":"development","files":[],"env":{}}
+{"_e":"devserver:start","_t":1780520771451,"mode":"development","web":true,"baseUrl":"","asyncRoutes":false,"routerRoot":"../../../app","serverComponents":false,"serverActions":false,"serverRendering":false,"apiRoutes":false,"exporting":false}
+{"_e":"metro:config","_t":1780520771745,"serverRoot":"../../..","projectRoot":"../../..","exporting":false,"flags":{"autolinkingModuleResolution":false,"serverActions":false,"serverComponents":false,"reactCompiler":false,"optimizeGraph":false,"treeshaking":false,"logbox":false}}
+{"_e":"metro:instantiate","_t":1780520774286,"atlas":false,"workers":6,"host":"::","port":8082}
+{"_e":"metro:bundling:started","_t":1780520774581,"id":"1","platform":"web","environment":null,"entry":"index.ts"}
+{"_e":"metro:bundling:progress","_t":1780520774582,"id":"1","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1780520774589,"id":"1","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1780520774692,"id":"1","progress":0.25799949609473416,"total":63,"current":32}
+{"_e":"metro:bundling:progress","_t":1780520774793,"id":"1","progress":0.39707262150497274,"total":73,"current":46}
+{"_e":"metro:bundling:progress","_t":1780520774893,"id":"1","progress":0.5796745867768595,"total":88,"current":67}
+{"_e":"metro:bundling:progress","_t":1780520774997,"id":"1","progress":0.6173469387755102,"total":112,"current":88}
+{"_e":"metro:bundling:progress","_t":1780520775097,"id":"1","progress":0.7612269717580289,"total":149,"current":130}
+{"_e":"metro:bundling:progress","_t":1780520775273,"id":"1","progress":0.766984298445276,"total":161,"current":141}
+{"_e":"metro:bundling:progress","_t":1780520775375,"id":"1","progress":0.8537327724770014,"total":171,"current":158}
+{"_e":"metro:bundling:progress","_t":1780520775473,"id":"1","progress":0.9361869978086195,"total":185,"current":179}
+{"_e":"metro:bundling:progress","_t":1780520775782,"id":"1","progress":0.9466764061358657,"total":185,"current":180}
+{"_e":"metro:bundling:progress","_t":1780520775883,"id":"1","progress":0.9466764061358657,"total":199,"current":180}
+{"_e":"metro:bundling:progress","_t":1780520776022,"id":"1","progress":0.9466764061358657,"total":199,"current":181}
+{"_e":"metro:bundling:progress","_t":1780520776123,"id":"1","progress":0.9466764061358657,"total":206,"current":184}
+{"_e":"metro:bundling:progress","_t":1780520776223,"id":"1","progress":0.9466764061358657,"total":210,"current":190}
+{"_e":"metro:bundling:progress","_t":1780520776325,"id":"1","progress":0.9466764061358657,"total":211,"current":194}
+{"_e":"metro:bundling:progress","_t":1780520776435,"id":"1","progress":0.9466764061358657,"total":238,"current":200}
+{"_e":"metro:bundling:progress","_t":1780520776526,"id":"1","progress":0.9466764061358657,"total":238,"current":201}
+{"_e":"metro:bundling:progress","_t":1780520776650,"id":"1","progress":0.9466764061358657,"total":248,"current":205}
+{"_e":"metro:bundling:progress","_t":1780520776750,"id":"1","progress":0.9466764061358657,"total":256,"current":210}
+{"_e":"metro:bundling:progress","_t":1780520776858,"id":"1","progress":0.9466764061358657,"total":260,"current":216}
+{"_e":"metro:bundling:progress","_t":1780520776955,"id":"1","progress":0.9466764061358657,"total":264,"current":222}
+{"_e":"metro:bundling:progress","_t":1780520777062,"id":"1","progress":0.9466764061358657,"total":266,"current":231}
+{"_e":"metro:bundling:progress","_t":1780520777156,"id":"1","progress":0.9466764061358657,"total":285,"current":237}
+{"_e":"metro:bundling:progress","_t":1780520777256,"id":"1","progress":0.9466764061358657,"total":290,"current":246}
+{"_e":"metro:bundling:progress","_t":1780520777357,"id":"1","progress":0.9466764061358657,"total":295,"current":251}
+{"_e":"metro:bundling:progress","_t":1780520777457,"id":"1","progress":0.9466764061358657,"total":300,"current":256}
+{"_e":"metro:bundling:progress","_t":1780520777564,"id":"1","progress":0.9466764061358657,"total":333,"current":263}
+{"_e":"metro:bundling:progress","_t":1780520777667,"id":"1","progress":0.9466764061358657,"total":337,"current":272}
+{"_e":"metro:bundling:progress","_t":1780520777767,"id":"1","progress":0.9466764061358657,"total":341,"current":283}
+{"_e":"metro:bundling:progress","_t":1780520777868,"id":"1","progress":0.9466764061358657,"total":344,"current":287}
+{"_e":"metro:bundling:progress","_t":1780520777970,"id":"1","progress":0.9466764061358657,"total":353,"current":292}
+{"_e":"metro:bundling:progress","_t":1780520778077,"id":"1","progress":0.9466764061358657,"total":361,"current":304}
+{"_e":"metro:bundling:progress","_t":1780520778177,"id":"1","progress":0.9466764061358657,"total":365,"current":314}
+{"_e":"metro:bundling:progress","_t":1780520778277,"id":"1","progress":0.9466764061358657,"total":368,"current":327}
+{"_e":"metro:bundling:progress","_t":1780520778378,"id":"1","progress":0.9466764061358657,"total":372,"current":339}
+{"_e":"metro:bundling:progress","_t":1780520778480,"id":"1","progress":0.9466764061358657,"total":380,"current":352}
+{"_e":"metro:bundling:progress","_t":1780520778580,"id":"1","progress":0.9466764061358657,"total":381,"current":357}
+{"_e":"metro:bundling:progress","_t":1780520778684,"id":"1","progress":0.9466764061358657,"total":384,"current":364}
+{"_e":"metro:bundling:progress","_t":1780520778790,"id":"1","progress":0.9466764061358657,"total":401,"current":370}
+{"_e":"metro:bundling:progress","_t":1780520778899,"id":"1","progress":0.9466764061358657,"total":405,"current":377}
+{"_e":"metro:bundling:progress","_t":1780520779003,"id":"1","progress":0.9466764061358657,"total":407,"current":386}
+{"_e":"metro:bundling:progress","_t":1780520779122,"id":"1","progress":0.9466764061358657,"total":409,"current":392}
+{"_e":"metro:bundling:progress","_t":1780520779222,"id":"1","progress":0.9466764061358657,"total":425,"current":401}
+{"_e":"metro:bundling:progress","_t":1780520779322,"id":"1","progress":0.9466764061358657,"total":435,"current":410}
+{"_e":"metro:bundling:progress","_t":1780520779425,"id":"1","progress":0.9466764061358657,"total":436,"current":424}
+{"_e":"metro:bundling:progress","_t":1780520779526,"id":"1","progress":0.9909091380804376,"total":439,"current":437}
+{"_e":"metro:bundling:progress","_t":1780520779627,"id":"1","progress":0.999,"total":439,"current":439}
+{"_e":"metro:bundling:done","_t":1780520779847,"id":"1","total":439,"ms":5265.881387}
+{"_e":"metro:client_log","_t":1780520780263,"level":"info","data":["%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools","font-weight:bold"]}
+{"_e":"metro:client_log","_t":1780520780269,"level":"warn","data":["\"shadow*\" style props are deprecated. Use \"boxShadow\"."]}
+{"_e":"metro:client_log","_t":1780520780269,"level":"log","data":["Running application \"main\" with appParams:\n","{\"hydrate\": undefined, \"rootTag\": \"#root\"}","\nDevelopment-level warnings: ON.\nPerformance optimizations: OFF."]}
+{"_e":"metro:bundling:started","_t":1780520781585,"id":"3","platform":"web","environment":null,"entry":"index.ts"}
+{"_e":"metro:bundling:started","_t":1780520924527,"id":"4","platform":"web","environment":null,"entry":"paginas/login.tsx"}
+{"_e":"metro:bundling:started","_t":1780520928708,"id":"6","platform":"web","environment":null,"entry":"index.ts"}
+{"_e":"metro:bundling:progress","_t":1780520928709,"id":"6","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:done","_t":1780520928732,"id":"6","total":1,"ms":23.456218}
+{"_e":"metro:bundling:started","_t":1780520928950,"id":"7","platform":"web","environment":null,"entry":"index.ts"}
+{"_e":"metro:client_log","_t":1780520929093,"level":"info","data":["%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools","font-weight:bold"]}
+{"_e":"metro:client_log","_t":1780520929093,"level":"warn","data":["\"shadow*\" style props are deprecated. Use \"boxShadow\"."]}
+{"_e":"metro:client_log","_t":1780520929098,"level":"log","data":["Running application \"main\" with appParams:\n","{\"hydrate\": undefined, \"rootTag\": \"#root\"}","\nDevelopment-level warnings: ON.\nPerformance optimizations: OFF."]}
+{"_e":"metro:bundling:started","_t":1780521001575,"id":"a","platform":"web","environment":null,"entry":"index.ts"}
+{"_e":"metro:bundling:progress","_t":1780521001575,"id":"a","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:done","_t":1780521001599,"id":"a","total":1,"ms":24.446775}
+{"_e":"metro:bundling:started","_t":1780521001848,"id":"b","platform":"web","environment":null,"entry":"index.ts"}
+{"_e":"metro:client_log","_t":1780521002003,"level":"info","data":["%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools","font-weight:bold"]}
+{"_e":"metro:client_log","_t":1780521002004,"level":"warn","data":["\"shadow*\" style props are deprecated. Use \"boxShadow\"."]}
+{"_e":"metro:client_log","_t":1780521002004,"level":"log","data":["Running application \"main\" with appParams:\n","{\"hydrate\": undefined, \"rootTag\": \"#root\"}","\nDevelopment-level warnings: ON.\nPerformance optimizations: OFF."]}
+{"_e":"metro:bundling:started","_t":1780521110448,"id":"d","platform":"web","environment":null,"entry":"paginas/paginaprincipal.tsx"}
+{"_e":"root:init","_t":1780521482481,"format":"v0-jsonl","version":"56.1.13"}
+{"_e":"env:mode","_t":1780521482482,"nodeEnv":"development","babelEnv":"development","mode":"development"}
+{"_e":"env:load","_t":1780521482483,"mode":"development","files":[],"env":{}}
+{"_e":"devserver:start","_t":1780521484824,"mode":"development","web":true,"baseUrl":"","asyncRoutes":false,"routerRoot":"../../../app","serverComponents":false,"serverActions":false,"serverRendering":false,"apiRoutes":false,"exporting":false}
+{"_e":"metro:config","_t":1780521485089,"serverRoot":"../../..","projectRoot":"../../..","exporting":false,"flags":{"autolinkingModuleResolution":false,"serverActions":false,"serverComponents":false,"reactCompiler":false,"optimizeGraph":false,"treeshaking":false,"logbox":false}}
+{"_e":"metro:instantiate","_t":1780521487267,"atlas":false,"workers":6,"host":"::","port":8082}
+{"_e":"metro:bundling:started","_t":1780521489058,"id":"1","platform":"web","environment":null,"entry":"index.ts"}
+{"_e":"metro:bundling:progress","_t":1780521489058,"id":"1","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1780521489064,"id":"1","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1780521489168,"id":"1","progress":0.041259765625,"total":64,"current":13}
+{"_e":"metro:bundling:progress","_t":1780521489269,"id":"1","progress":0.23507805325987147,"total":132,"current":64}
+{"_e":"metro:bundling:progress","_t":1780521489371,"id":"1","progress":0.27336442577752584,"total":197,"current":103}
+{"_e":"metro:bundling:progress","_t":1780521489474,"id":"1","progress":0.37141962460166883,"total":233,"current":142}
+{"_e":"metro:bundling:progress","_t":1780521489573,"id":"1","progress":0.49274894271434055,"total":255,"current":179}
+{"_e":"metro:bundling:progress","_t":1780521489673,"id":"1","progress":0.7197409063066115,"total":277,"current":235}
+{"_e":"metro:bundling:progress","_t":1780521489775,"id":"1","progress":0.7207896040718887,"total":298,"current":253}
+{"_e":"metro:bundling:progress","_t":1780521489877,"id":"1","progress":0.7983538539382694,"total":385,"current":344}
+{"_e":"metro:bundling:progress","_t":1780521489977,"id":"1","progress":0.9061575443786981,"total":416,"current":396}
+{"_e":"metro:bundling:progress","_t":1780521490077,"id":"1","progress":0.9954390025228832,"total":438,"current":437}
+{"_e":"metro:bundling:progress","_t":1780521490403,"id":"1","progress":0.999,"total":438,"current":438}
+{"_e":"metro:bundling:failed","_t":1780521490428,"id":"1","message":"Unable to resolve \"./assets/brigadeiro.jpg\" from \"paginas/paginaprincipal.tsx\"\n  35 |     descricao: 'Chocolate belga, granulado crocante',\n  36 |     preco: 'R$ 4,50',\n> 37 |     imagem: require('./assets/brigadeiro.jpg'),\n     |                      ^\n  38 |     favorito: true,\n  39 |     ingredientes: [\n  40 |       'Chocolate belga 70%',","importStack":"\u001b[1mImport stack:\u001b[22m\n\n\u001b[90m \u001b[39mpaginas/paginaprincipal.tsx\n\u001b[90m |\u001b[39m \u001b[36mimport\u001b[39m \u001b[32m\"./assets/brigadeiro.jpg\"\u001b[39m\n\n\u001b[90m \u001b[39mpaginas/direct.tsx\n\u001b[90m |\u001b[39m \u001b[36mimport\u001b[39m \u001b[32m\"./paginaprincipal\"\u001b[39m\n\n\u001b[90m \u001b[39mindex.ts\n\u001b[90m |\u001b[39m \u001b[36mimport\u001b[39m \u001b[32m\"./paginas/direct\"\u001b[39m\n\n\u001b[90m \u001b[39m\n\u001b[90m |\u001b[39m \u001b[36mimport\u001b[39m \u001b[32m\"./index.ts\"\u001b[39m\n","filename":null,"targetModuleName":"./assets/brigadeiro.jpg","originModulePath":"paginas/paginaprincipal.tsx"}
+{"_e":"metro:bundling:started","_t":1780521508762,"id":"5","platform":"web","environment":null,"entry":"index.ts"}
+{"_e":"metro:bundling:progress","_t":1780521508762,"id":"5","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1780521508775,"id":"5","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1780521508876,"id":"5","progress":0.19258837534289114,"total":139,"current":61}
+{"_e":"metro:bundling:progress","_t":1780521508982,"id":"5","progress":0.19986159169550174,"total":170,"current":76}
+{"_e":"metro:bundling:progress","_t":1780521509083,"id":"5","progress":0.27082465639316955,"total":196,"current":102}
+{"_e":"metro:bundling:progress","_t":1780521509183,"id":"5","progress":0.3183242744023376,"total":257,"current":145}
+{"_e":"metro:bundling:progress","_t":1780521509283,"id":"5","progress":0.34027777777777785,"total":276,"current":161}
+{"_e":"metro:bundling:progress","_t":1780521509383,"id":"5","progress":0.6089115829078204,"total":305,"current":238}
+{"_e":"metro:bundling:progress","_t":1780521509484,"id":"5","progress":0.6089115829078204,"total":349,"current":266}
+{"_e":"metro:bundling:progress","_t":1780521509584,"id":"5","progress":0.7139594976263445,"total":387,"current":327}
+{"_e":"metro:bundling:progress","_t":1780521509684,"id":"5","progress":0.8074548326806694,"total":424,"current":381}
+{"_e":"metro:bundling:progress","_t":1780521509803,"id":"5","progress":0.890557787517247,"total":444,"current":419}
+{"_e":"metro:bundling:failed","_t":1780521509881,"id":"5","message":"paginas/assets/torta-limao.jpg: Empty file","importStack":null,"filename":null,"targetModuleName":null,"originModulePath":null}
+{"_e":"metro:bundling:started","_t":1780521541630,"id":"8","platform":"web","environment":null,"entry":"index.ts"}
+{"_e":"metro:bundling:progress","_t":1780521541631,"id":"8","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1780521541637,"id":"8","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1780521541737,"id":"8","progress":0.40742417383431423,"total":94,"current":60}
+{"_e":"metro:bundling:progress","_t":1780521541839,"id":"8","progress":0.40742417383431423,"total":214,"current":122}
+{"_e":"metro:bundling:progress","_t":1780521541940,"id":"8","progress":0.5652010765488329,"total":278,"current":209}
+{"_e":"metro:bundling:progress","_t":1780521542039,"id":"8","progress":0.6382135389032801,"total":358,"current":286}
+{"_e":"metro:bundling:progress","_t":1780521542139,"id":"8","progress":0.8600716287590017,"total":427,"current":396}
+{"_e":"metro:bundling:failed","_t":1780521542210,"id":"8","message":"paginas/assets/torta-limao.jpg: Empty file","importStack":null,"filename":null,"targetModuleName":null,"originModulePath":null}
+{"_e":"root:init","_t":1780521546755,"format":"v0-jsonl","version":"56.1.13"}
+{"_e":"env:mode","_t":1780521546756,"nodeEnv":"development","babelEnv":"development","mode":"development"}
+{"_e":"env:load","_t":1780521546758,"mode":"development","files":[],"env":{}}
+{"_e":"devserver:start","_t":1780521548613,"mode":"development","web":true,"baseUrl":"","asyncRoutes":false,"routerRoot":"../../../app","serverComponents":false,"serverActions":false,"serverRendering":false,"apiRoutes":false,"exporting":false}
+{"_e":"metro:config","_t":1780521548890,"serverRoot":"../../..","projectRoot":"../../..","exporting":false,"flags":{"autolinkingModuleResolution":false,"serverActions":false,"serverComponents":false,"reactCompiler":false,"optimizeGraph":false,"treeshaking":false,"logbox":false}}
+{"_e":"metro:instantiate","_t":1780521551246,"atlas":false,"workers":6,"host":"::","port":8082}
+{"_e":"metro:bundling:started","_t":1780521552301,"id":"1","platform":"web","environment":null,"entry":"index.ts"}
+{"_e":"metro:bundling:progress","_t":1780521552301,"id":"1","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1780521552312,"id":"1","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1780521552413,"id":"1","progress":0.03869927438860521,"total":61,"current":12}
+{"_e":"metro:bundling:progress","_t":1780521552514,"id":"1","progress":0.1989545054603799,"total":139,"current":62}
+{"_e":"metro:bundling:progress","_t":1780521552618,"id":"1","progress":0.3039883126369613,"total":185,"current":102}
+{"_e":"metro:bundling:progress","_t":1780521552729,"id":"1","progress":0.32906676281473474,"total":258,"current":148}
+{"_e":"metro:bundling:progress","_t":1780521552846,"id":"1","progress":0.3847730227825202,"total":266,"current":165}
+{"_e":"metro:bundling:progress","_t":1780521552948,"id":"1","progress":0.5560751526316411,"total":291,"current":217}
+{"_e":"metro:bundling:progress","_t":1780521553046,"id":"1","progress":0.6400000000000001,"total":305,"current":244}
+{"_e":"metro:bundling:progress","_t":1780521553147,"id":"1","progress":0.696181640625,"total":320,"current":267}
+{"_e":"metro:bundling:progress","_t":1780521553247,"id":"1","progress":0.696181640625,"total":353,"current":276}
+{"_e":"metro:bundling:progress","_t":1780521553347,"id":"1","progress":0.696181640625,"total":377,"current":308}
+{"_e":"metro:bundling:progress","_t":1780521553455,"id":"1","progress":0.696181640625,"total":388,"current":318}
+{"_e":"metro:bundling:progress","_t":1780521553556,"id":"1","progress":0.765625,"total":392,"current":343}
+{"_e":"metro:bundling:progress","_t":1780521553656,"id":"1","progress":0.8241034153211608,"total":423,"current":384}
+{"_e":"metro:bundling:progress","_t":1780521553792,"id":"1","progress":0.8995204005710953,"total":446,"current":423}
+{"_e":"metro:bundling:failed","_t":1780521553826,"id":"1","message":"paginas/assets/cupcake.jpg: Empty file","importStack":null,"filename":null,"targetModuleName":null,"originModulePath":null}
+{"_e":"root:init","_t":1780521991118,"format":"v0-jsonl","version":"56.1.13"}
+{"_e":"env:mode","_t":1780521991118,"nodeEnv":"development","babelEnv":"development","mode":"development"}
+{"_e":"env:load","_t":1780521991120,"mode":"development","files":[],"env":{}}
+{"_e":"devserver:start","_t":1780521993401,"mode":"development","web":true,"baseUrl":"","asyncRoutes":false,"routerRoot":"../../../app","serverComponents":false,"serverActions":false,"serverRendering":false,"apiRoutes":false,"exporting":false}
+{"_e":"metro:config","_t":1780521993628,"serverRoot":"../../..","projectRoot":"../../..","exporting":false,"flags":{"autolinkingModuleResolution":false,"serverActions":false,"serverComponents":false,"reactCompiler":false,"optimizeGraph":false,"treeshaking":false,"logbox":false}}
+{"_e":"metro:instantiate","_t":1780521996167,"atlas":false,"workers":6,"host":"::","port":8082}
+{"_e":"metro:bundling:started","_t":1780522003270,"id":"1","platform":"web","environment":null,"entry":"index.ts"}
+{"_e":"metro:bundling:progress","_t":1780522003271,"id":"1","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1780522003278,"id":"1","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1780522003401,"id":"1","progress":0.04725897920604915,"total":69,"current":15}
+{"_e":"metro:bundling:progress","_t":1780522003506,"id":"1","progress":0.23884900220476,"total":133,"current":65}
+{"_e":"metro:bundling:progress","_t":1780522003611,"id":"1","progress":0.33244054865676487,"total":222,"current":128}
+{"_e":"metro:bundling:progress","_t":1780522003711,"id":"1","progress":0.6738694586767655,"total":268,"current":220}
+{"_e":"metro:bundling:progress","_t":1780522003811,"id":"1","progress":0.828836579905777,"total":346,"current":315}
+{"_e":"metro:bundling:progress","_t":1780522003920,"id":"1","progress":0.9217915311471945,"total":401,"current":385}
+{"_e":"metro:bundling:failed","_t":1780522003996,"id":"1","message":"Unable to resolve \"./assets/torta-limao.jpg\" from \"paginas/paginaprincipal.tsx\"\n  50 |     descricao: 'Massa amanteigada, limão siciliano',\n  51 |     preco: 'R$ 12,90',\n> 52 |     imagem: require('./assets/torta-limao.jpg'),\n     |                      ^\n  53 |     favorito: false,\n  54 |     ingredientes: [\n  55 |       'Limão siciliano',","importStack":"\u001b[1mImport stack:\u001b[22m\n\n\u001b[90m \u001b[39mpaginas/paginaprincipal.tsx\n\u001b[90m |\u001b[39m \u001b[36mimport\u001b[39m \u001b[32m\"./assets/torta-limao.jpg\"\u001b[39m\n\n\u001b[90m \u001b[39mpaginas/direct.tsx\n\u001b[90m |\u001b[39m \u001b[36mimport\u001b[39m \u001b[32m\"./paginaprincipal\"\u001b[39m\n\n\u001b[90m \u001b[39mindex.ts\n\u001b[90m |\u001b[39m \u001b[36mimport\u001b[39m \u001b[32m\"./paginas/direct\"\u001b[39m\n\n\u001b[90m \u001b[39m\n\u001b[90m |\u001b[39m \u001b[36mimport\u001b[39m \u001b[32m\"./index.ts\"\u001b[39m\n","filename":null,"targetModuleName":"./assets/torta-limao.jpg","originModulePath":"paginas/paginaprincipal.tsx"}
+{"_e":"metro:bundling:started","_t":1780522087546,"id":"3","platform":"web","environment":null,"entry":"index.ts"}
+{"_e":"metro:bundling:progress","_t":1780522087546,"id":"3","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1780522087555,"id":"3","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1780522087656,"id":"3","progress":0.10699624421346841,"total":107,"current":35}
+{"_e":"metro:bundling:progress","_t":1780522087756,"id":"3","progress":0.3133565689981097,"total":184,"current":103}
+{"_e":"metro:bundling:progress","_t":1780522087857,"id":"3","progress":0.4574473580000345,"total":241,"current":163}
+{"_e":"metro:bundling:progress","_t":1780522087957,"id":"3","progress":0.7491200951248513,"total":290,"current":251}
+{"_e":"metro:bundling:progress","_t":1780522088061,"id":"3","progress":0.7785467128027681,"total":323,"current":285}
+{"_e":"metro:bundling:progress","_t":1780522088163,"id":"3","progress":0.7785467128027681,"total":367,"current":321}
+{"_e":"metro:bundling:progress","_t":1780522088281,"id":"3","progress":0.9170092225794615,"total":401,"current":384}
+{"_e":"metro:bundling:progress","_t":1780522088381,"id":"3","progress":0.9954390025228832,"total":438,"current":437}
+{"_e":"metro:bundling:progress","_t":1780522088735,"id":"3","progress":0.999,"total":438,"current":438}
+{"_e":"metro:bundling:failed","_t":1780522088750,"id":"3","message":"Unable to resolve \"./assets/cupcake.png\" from \"paginas/paginaprincipal.tsx\"\n  101 |     descricao: 'Massa leve com cobertura de buttercream',\n  102 |     preco: 'R$ 6,50',\n> 103 |     imagem: require('./assets/cupcake.png'),\n      |                      ^\n  104 |     favorito: true,\n  105 |     ingredientes: [\n  106 |       'Farinha de trigo',","importStack":"\u001b[1mImport stack:\u001b[22m\n\n\u001b[90m \u001b[39mpaginas/paginaprincipal.tsx\n\u001b[90m |\u001b[39m \u001b[36mimport\u001b[39m \u001b[32m\"./assets/cupcake.png\"\u001b[39m\n\n\u001b[90m \u001b[39mpaginas/direct.tsx\n\u001b[90m |\u001b[39m \u001b[36mimport\u001b[39m \u001b[32m\"./paginaprincipal\"\u001b[39m\n\n\u001b[90m \u001b[39mindex.ts\n\u001b[90m |\u001b[39m \u001b[36mimport\u001b[39m \u001b[32m\"./paginas/direct\"\u001b[39m\n\n\u001b[90m \u001b[39m\n\u001b[90m |\u001b[39m \u001b[36mimport\u001b[39m \u001b[32m\"./index.ts\"\u001b[39m\n","filename":null,"targetModuleName":"./assets/cupcake.png","originModulePath":"paginas/paginaprincipal.tsx"}
+{"_e":"metro:bundling:started","_t":1780522120523,"id":"5","platform":"web","environment":null,"entry":"index.ts"}
+{"_e":"metro:bundling:progress","_t":1780522120524,"id":"5","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1780522120533,"id":"5","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1780522120634,"id":"5","progress":0.23884900220476,"total":133,"current":65}
+{"_e":"metro:bundling:progress","_t":1780522120734,"id":"5","progress":0.3197004105162023,"total":214,"current":121}
+{"_e":"metro:bundling:progress","_t":1780522120834,"id":"5","progress":0.6290130796670631,"total":261,"current":207}
+{"_e":"metro:bundling:progress","_t":1780522120934,"id":"5","progress":0.895536084777682,"total":354,"current":335}
+{"_e":"metro:bundling:progress","_t":1780522121034,"id":"5","progress":0.9237101309636643,"total":437,"current":420}
+{"_e":"metro:bundling:failed","_t":1780522121049,"id":"5","message":"Unable to resolve \"assets/brigadeiro.jpg\" from \"paginas/paginaprincipal.tsx\"\n  35 |     descricao: 'Chocolate belga, granulado crocante',\n  36 |     preco: 'R$ 4,50',\n> 37 |     imagem: require('assets/brigadeiro.jpg'),\n     |                      ^\n  38 |     favorito: true,\n  39 |     ingredientes: [\n  40 |       'Chocolate belga 70%',","importStack":"\u001b[1mImport stack:\u001b[22m\n\n\u001b[90m \u001b[39mpaginas/paginaprincipal.tsx\n\u001b[90m |\u001b[39m \u001b[36mimport\u001b[39m \u001b[32m\"assets/brigadeiro.jpg\"\u001b[39m\n\n\u001b[90m \u001b[39mpaginas/direct.tsx\n\u001b[90m |\u001b[39m \u001b[36mimport\u001b[39m \u001b[32m\"./paginaprincipal\"\u001b[39m\n\n\u001b[90m \u001b[39mindex.ts\n\u001b[90m |\u001b[39m \u001b[36mimport\u001b[39m \u001b[32m\"./paginas/direct\"\u001b[39m\n\n\u001b[90m \u001b[39m\n\u001b[90m |\u001b[39m \u001b[36mimport\u001b[39m \u001b[32m\"./index.ts\"\u001b[39m\n","filename":null,"targetModuleName":"assets/brigadeiro.jpg","originModulePath":"paginas/paginaprincipal.tsx"}
+{"_e":"metro:bundling:started","_t":1780522195974,"id":"7","platform":"web","environment":null,"entry":"index.ts"}
+{"_e":"metro:bundling:progress","_t":1780522195975,"id":"7","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1780522195983,"id":"7","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1780522196083,"id":"7","progress":0.43977839335180047,"total":95,"current":63}
+{"_e":"metro:bundling:progress","_t":1780522196183,"id":"7","progress":0.43977839335180047,"total":197,"current":107}
+{"_e":"metro:bundling:progress","_t":1780522196283,"id":"7","progress":0.5802154541015625,"total":256,"current":195}
+{"_e":"metro:bundling:progress","_t":1780522196383,"id":"7","progress":0.7823375615524617,"total":329,"current":291}
+{"_e":"metro:bundling:progress","_t":1780522196507,"id":"7","progress":0.8227128102825686,"total":398,"current":361}
+{"_e":"metro:bundling:failed","_t":1780522196564,"id":"7","message":"Unable to resolve \"./assets/brigadeiro.jpg\" from \"paginas/paginaprincipal.tsx\"\n  35 |     descricao: 'Chocolate belga, granulado crocante',\n  36 |     preco: 'R$ 4,50',\n> 37 |     imagem: require('./assets/brigadeiro.jpg'),\n     |                      ^\n  38 |     favorito: true,\n  39 |     ingredientes: [\n  40 |       'Chocolate belga 70%',","importStack":"\u001b[1mImport stack:\u001b[22m\n\n\u001b[90m \u001b[39mpaginas/paginaprincipal.tsx\n\u001b[90m |\u001b[39m \u001b[36mimport\u001b[39m \u001b[32m\"./assets/brigadeiro.jpg\"\u001b[39m\n\n\u001b[90m \u001b[39mpaginas/direct.tsx\n\u001b[90m |\u001b[39m \u001b[36mimport\u001b[39m \u001b[32m\"./paginaprincipal\"\u001b[39m\n\n\u001b[90m \u001b[39mindex.ts\n\u001b[90m |\u001b[39m \u001b[36mimport\u001b[39m \u001b[32m\"./paginas/direct\"\u001b[39m\n\n\u001b[90m \u001b[39m\n\u001b[90m |\u001b[39m \u001b[36mimport\u001b[39m \u001b[32m\"./index.ts\"\u001b[39m\n","filename":null,"targetModuleName":"./assets/brigadeiro.jpg","originModulePath":"paginas/paginaprincipal.tsx"}
+{"_e":"metro:bundling:started","_t":1780522259749,"id":"9","platform":"web","environment":null,"entry":"index.ts"}
+{"_e":"metro:bundling:progress","_t":1780522259749,"id":"9","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1780522259759,"id":"9","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1780522259860,"id":"9","progress":0.23850730124391561,"total":86,"current":42}
+{"_e":"metro:bundling:progress","_t":1780522259961,"id":"9","progress":0.23850730124391561,"total":144,"current":70}
+{"_e":"metro:bundling:progress","_t":1780522260062,"id":"9","progress":0.35491172476233585,"total":235,"current":140}
+{"_e":"metro:bundling:progress","_t":1780522260162,"id":"9","progress":0.6944444444444445,"total":270,"current":225}
+{"_e":"metro:bundling:progress","_t":1780522260262,"id":"9","progress":0.8304500520291362,"total":372,"current":339}
+{"_e":"metro:bundling:progress","_t":1780522260362,"id":"9","progress":0.9115702947845806,"total":420,"current":401}
+{"_e":"metro:bundling:failed","_t":1780522260440,"id":"9","message":"Unable to resolve \"./assets-comida/brigadeiro.jpg\" from \"paginas/paginaprincipal.tsx\"\n  35 |     descricao: 'Chocolate belga, granulado crocante',\n  36 |     preco: 'R$ 4,50',\n> 37 |     imagem: require('./assets-comida/brigadeiro.jpg'),\n     |                      ^\n  38 |     favorito: true,\n  39 |     ingredientes: [\n  40 |       'Chocolate belga 70%',","importStack":"\u001b[1mImport stack:\u001b[22m\n\n\u001b[90m \u001b[39mpaginas/paginaprincipal.tsx\n\u001b[90m |\u001b[39m \u001b[36mimport\u001b[39m \u001b[32m\"./assets-comida/brigadeiro.jpg\"\u001b[39m\n\n\u001b[90m \u001b[39mpaginas/direct.tsx\n\u001b[90m |\u001b[39m \u001b[36mimport\u001b[39m \u001b[32m\"./paginaprincipal\"\u001b[39m\n\n\u001b[90m \u001b[39mindex.ts\n\u001b[90m |\u001b[39m \u001b[36mimport\u001b[39m \u001b[32m\"./paginas/direct\"\u001b[39m\n\n\u001b[90m \u001b[39m\n\u001b[90m |\u001b[39m \u001b[36mimport\u001b[39m \u001b[32m\"./index.ts\"\u001b[39m\n","filename":null,"targetModuleName":"./assets-comida/brigadeiro.jpg","originModulePath":"paginas/paginaprincipal.tsx"}
+{"_e":"metro:bundling:started","_t":1780522382303,"id":"b","platform":"web","environment":null,"entry":"index.ts"}
+{"_e":"metro:bundling:progress","_t":1780522382303,"id":"b","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1780522382310,"id":"b","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1780522382417,"id":"b","progress":0.2795613687409169,"total":87,"current":46}
+{"_e":"metro:bundling:progress","_t":1780522382530,"id":"b","progress":0.2795613687409169,"total":152,"current":79}
+{"_e":"metro:bundling:progress","_t":1780522382630,"id":"b","progress":0.38872953170843644,"total":247,"current":154}
+{"_e":"metro:bundling:progress","_t":1780522382730,"id":"b","progress":0.7227961975986111,"total":287,"current":244}
+{"_e":"metro:bundling:progress","_t":1780522382831,"id":"b","progress":0.7514530303560799,"total":338,"current":293}
+{"_e":"metro:bundling:progress","_t":1780522382931,"id":"b","progress":0.8304500520291362,"total":372,"current":339}
+{"_e":"metro:bundling:progress","_t":1780522383034,"id":"b","progress":0.8304500520291362,"total":395,"current":354}
+{"_e":"metro:bundling:progress","_t":1780522383136,"id":"b","progress":0.9189857980949676,"total":411,"current":394}
+{"_e":"metro:bundling:failed","_t":1780522383232,"id":"b","message":"Unable to resolve \"./assets/brigadeiro.jpg\" from \"paginas/paginaprincipal.tsx\"\n  35 |     descricao: 'Chocolate belga, granulado crocante',\n  36 |     preco: 'R$ 4,50',\n> 37 |     imagem: require('./assets/brigadeiro.jpg'),\n     |                      ^\n  38 |     favorito: true,\n  39 |     ingredientes: [\n  40 |       'Chocolate belga 70%',","importStack":"\u001b[1mImport stack:\u001b[22m\n\n\u001b[90m \u001b[39mpaginas/paginaprincipal.tsx\n\u001b[90m |\u001b[39m \u001b[36mimport\u001b[39m \u001b[32m\"./assets/brigadeiro.jpg\"\u001b[39m\n\n\u001b[90m \u001b[39mpaginas/direct.tsx\n\u001b[90m |\u001b[39m \u001b[36mimport\u001b[39m \u001b[32m\"./paginaprincipal\"\u001b[39m\n\n\u001b[90m \u001b[39mindex.ts\n\u001b[90m |\u001b[39m \u001b[36mimport\u001b[39m \u001b[32m\"./paginas/direct\"\u001b[39m\n\n\u001b[90m \u001b[39m\n\u001b[90m |\u001b[39m \u001b[36mimport\u001b[39m \u001b[32m\"./index.ts\"\u001b[39m\n","filename":null,"targetModuleName":"./assets/brigadeiro.jpg","originModulePath":"paginas/paginaprincipal.tsx"}
+{"_e":"metro:bundling:started","_t":1780522386303,"id":"d","platform":"web","environment":null,"entry":"index.ts"}
+{"_e":"metro:bundling:progress","_t":1780522386303,"id":"d","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1780522386310,"id":"d","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1780522386409,"id":"d","progress":0.2462547345808129,"total":133,"current":66}
+{"_e":"metro:bundling:progress","_t":1780522386509,"id":"d","progress":0.4933390022675736,"total":252,"current":177}
+{"_e":"metro:bundling:progress","_t":1780522386611,"id":"d","progress":0.7773187213332866,"total":338,"current":298}
+{"_e":"metro:bundling:progress","_t":1780522386743,"id":"d","progress":0.8104604234666177,"total":391,"current":352}
+{"_e":"metro:bundling:failed","_t":1780522386821,"id":"d","message":"Unable to resolve \"./assets/brigadeiro.jpg\" from \"paginas/paginaprincipal.tsx\"\n  35 |     descricao: 'Chocolate belga, granulado crocante',\n  36 |     preco: 'R$ 4,50',\n> 37 |     imagem: require('./assets/brigadeiro.jpg'),\n     |                      ^\n  38 |     favorito: true,\n  39 |     ingredientes: [\n  40 |       'Chocolate belga 70%',","importStack":"\u001b[1mImport stack:\u001b[22m\n\n\u001b[90m \u001b[39mpaginas/paginaprincipal.tsx\n\u001b[90m |\u001b[39m \u001b[36mimport\u001b[39m \u001b[32m\"./assets/brigadeiro.jpg\"\u001b[39m\n\n\u001b[90m \u001b[39mpaginas/direct.tsx\n\u001b[90m |\u001b[39m \u001b[36mimport\u001b[39m \u001b[32m\"./paginaprincipal\"\u001b[39m\n\n\u001b[90m \u001b[39mindex.ts\n\u001b[90m |\u001b[39m \u001b[36mimport\u001b[39m \u001b[32m\"./paginas/direct\"\u001b[39m\n\n\u001b[90m \u001b[39m\n\u001b[90m |\u001b[39m \u001b[36mimport\u001b[39m \u001b[32m\"./index.ts\"\u001b[39m\n","filename":null,"targetModuleName":"./assets/brigadeiro.jpg","originModulePath":"paginas/paginaprincipal.tsx"}
+{"_e":"metro:bundling:started","_t":1780522401160,"id":"f","platform":"web","environment":null,"entry":"index.ts"}
+{"_e":"metro:bundling:progress","_t":1780522401161,"id":"f","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1780522401163,"id":"f","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1780522401264,"id":"f","progress":0.23551038062283736,"total":136,"current":66}
+{"_e":"metro:bundling:progress","_t":1780522401364,"id":"f","progress":0.32199026500811245,"total":215,"current":122}
+{"_e":"metro:bundling:progress","_t":1780522401469,"id":"f","progress":0.3691716071142445,"total":237,"current":144}
+{"_e":"metro:bundling:progress","_t":1780522401569,"id":"f","progress":0.7117223140495867,"total":275,"current":232}
+{"_e":"metro:bundling:progress","_t":1780522401669,"id":"f","progress":0.8851894465383852,"total":355,"current":334}
+{"_e":"metro:bundling:progress","_t":1780522401769,"id":"f","progress":0.9189857980949676,"total":411,"current":394}
+{"_e":"metro:bundling:failed","_t":1780522401816,"id":"f","message":"Unable to resolve \"./assets/torta-limao.png\" from \"paginas/paginaprincipal.tsx\"\n  50 |     descricao: 'Massa amanteigada, limão siciliano',\n  51 |     preco: 'R$ 12,90',\n> 52 |     imagem: require('./assets/torta-limao.png'),\n     |                      ^\n  53 |     favorito: false,\n  54 |     ingredientes: [\n  55 |       'Limão siciliano',","importStack":"\u001b[1mImport stack:\u001b[22m\n\n\u001b[90m \u001b[39mpaginas/paginaprincipal.tsx\n\u001b[90m |\u001b[39m \u001b[36mimport\u001b[39m \u001b[32m\"./assets/torta-limao.png\"\u001b[39m\n\n\u001b[90m \u001b[39mpaginas/direct.tsx\n\u001b[90m |\u001b[39m \u001b[36mimport\u001b[39m \u001b[32m\"./paginaprincipal\"\u001b[39m\n\n\u001b[90m \u001b[39mindex.ts\n\u001b[90m |\u001b[39m \u001b[36mimport\u001b[39m \u001b[32m\"./paginas/direct\"\u001b[39m\n\n\u001b[90m \u001b[39m\n\u001b[90m |\u001b[39m \u001b[36mimport\u001b[39m \u001b[32m\"./index.ts\"\u001b[39m\n","filename":null,"targetModuleName":"./assets/torta-limao.png","originModulePath":"paginas/paginaprincipal.tsx"}
+{"_e":"metro:bundling:started","_t":1780522438786,"id":"h","platform":"web","environment":null,"entry":"index.ts"}
+{"_e":"metro:bundling:progress","_t":1780522438786,"id":"h","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1780522438806,"id":"h","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1780522438906,"id":"h","progress":0.23850730124391561,"total":86,"current":42}
+{"_e":"metro:bundling:progress","_t":1780522439006,"id":"h","progress":0.27012638504155123,"total":152,"current":79}
+{"_e":"metro:bundling:progress","_t":1780522439106,"id":"h","progress":0.35491172476233585,"total":235,"current":140}
+{"_e":"metro:bundling:progress","_t":1780522439215,"id":"h","progress":0.6818755739210285,"total":264,"current":218}
+{"_e":"metro:bundling:progress","_t":1780522439315,"id":"h","progress":0.8452133194588969,"total":372,"current":342}
+{"_e":"metro:bundling:progress","_t":1780522439415,"id":"h","progress":0.9121830446713501,"total":423,"current":404}
+{"_e":"metro:bundling:failed","_t":1780522439449,"id":"h","message":"Unable to resolve \"../assets/cupcake.png\" from \"paginas/paginaprincipal.tsx\"\n  101 |     descricao: 'Massa leve com cobertura de buttercream',\n  102 |     preco: 'R$ 6,50',\n> 103 |     imagem: require('../assets/cupcake.png'),\n      |                      ^\n  104 |     favorito: true,\n  105 |     ingredientes: [\n  106 |       'Farinha de trigo',","importStack":"\u001b[1mImport stack:\u001b[22m\n\n\u001b[90m \u001b[39mpaginas/paginaprincipal.tsx\n\u001b[90m |\u001b[39m \u001b[36mimport\u001b[39m \u001b[32m\"../assets/cupcake.png\"\u001b[39m\n\n\u001b[90m \u001b[39mpaginas/direct.tsx\n\u001b[90m |\u001b[39m \u001b[36mimport\u001b[39m \u001b[32m\"./paginaprincipal\"\u001b[39m\n\n\u001b[90m \u001b[39mindex.ts\n\u001b[90m |\u001b[39m \u001b[36mimport\u001b[39m \u001b[32m\"./paginas/direct\"\u001b[39m\n\n\u001b[90m \u001b[39m\n\u001b[90m |\u001b[39m \u001b[36mimport\u001b[39m \u001b[32m\"./index.ts\"\u001b[39m\n","filename":null,"targetModuleName":"../assets/cupcake.png","originModulePath":"paginas/paginaprincipal.tsx"}
+{"_e":"metro:bundling:started","_t":1780522580312,"id":"j","platform":"web","environment":null,"entry":"index.ts"}
+{"_e":"metro:bundling:progress","_t":1780522580313,"id":"j","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1780522580317,"id":"j","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1780522580418,"id":"j","progress":0.23884900220476,"total":133,"current":65}
+{"_e":"metro:bundling:progress","_t":1780522580518,"id":"j","progress":0.34572381145351727,"total":233,"current":137}
+{"_e":"metro:bundling:progress","_t":1780522580618,"id":"j","progress":0.7278595530343782,"total":286,"current":244}
+{"_e":"metro:bundling:progress","_t":1780522580745,"id":"j","progress":0.9217915311471945,"total":401,"current":385}
+{"_e":"metro:bundling:failed","_t":1780522580787,"id":"j","message":"Unable to resolve \"../assets/cupcake.png\" from \"paginas/paginaprincipal.tsx\"\n  101 |     descricao: 'Massa leve com cobertura de buttercream',\n  102 |     preco: 'R$ 6,50',\n> 103 |     imagem: require('../assets/cupcake.png'),\n      |                      ^\n  104 |     favorito: true,\n  105 |     ingredientes: [\n  106 |       'Farinha de trigo',","importStack":"\u001b[1mImport stack:\u001b[22m\n\n\u001b[90m \u001b[39mpaginas/paginaprincipal.tsx\n\u001b[90m |\u001b[39m \u001b[36mimport\u001b[39m \u001b[32m\"../assets/cupcake.png\"\u001b[39m\n\n\u001b[90m \u001b[39mpaginas/direct.tsx\n\u001b[90m |\u001b[39m \u001b[36mimport\u001b[39m \u001b[32m\"./paginaprincipal\"\u001b[39m\n\n\u001b[90m \u001b[39mindex.ts\n\u001b[90m |\u001b[39m \u001b[36mimport\u001b[39m \u001b[32m\"./paginas/direct\"\u001b[39m\n\n\u001b[90m \u001b[39m\n\u001b[90m |\u001b[39m \u001b[36mimport\u001b[39m \u001b[32m\"./index.ts\"\u001b[39m\n","filename":null,"targetModuleName":"../assets/cupcake.png","originModulePath":"paginas/paginaprincipal.tsx"}
+{"_e":"root:init","_t":1780522681848,"format":"v0-jsonl","version":"56.1.13"}
+{"_e":"env:mode","_t":1780522681849,"nodeEnv":"development","babelEnv":"development","mode":"development"}
+{"_e":"env:load","_t":1780522681851,"mode":"development","files":[],"env":{}}
+{"_e":"devserver:start","_t":1780522683997,"mode":"development","web":true,"baseUrl":"","asyncRoutes":false,"routerRoot":"../../../app","serverComponents":false,"serverActions":false,"serverRendering":false,"apiRoutes":false,"exporting":false}
+{"_e":"metro:config","_t":1780522684214,"serverRoot":"../../..","projectRoot":"../../..","exporting":false,"flags":{"autolinkingModuleResolution":false,"serverActions":false,"serverComponents":false,"reactCompiler":false,"optimizeGraph":false,"treeshaking":false,"logbox":false}}
+{"_e":"metro:instantiate","_t":1780522686601,"atlas":false,"workers":6,"host":"::","port":8082}
+{"_e":"metro:bundling:started","_t":1780522687283,"id":"1","platform":"web","environment":null,"entry":"index.ts"}
+{"_e":"metro:bundling:progress","_t":1780522687285,"id":"1","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1780522687297,"id":"1","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1780522687402,"id":"1","progress":0.041259765625,"total":64,"current":13}
+{"_e":"metro:bundling:progress","_t":1780522687506,"id":"1","progress":0.26255037224233313,"total":121,"current":62}
+{"_e":"metro:bundling:progress","_t":1780522687606,"id":"1","progress":0.3118569741946365,"total":154,"current":86}
+{"_e":"metro:bundling:progress","_t":1780522687712,"id":"1","progress":0.3167333693888588,"total":215,"current":121}
+{"_e":"metro:bundling:progress","_t":1780522687812,"id":"1","progress":0.6229503383684913,"total":261,"current":206}
+{"_e":"metro:bundling:progress","_t":1780522687913,"id":"1","progress":0.8242728531855956,"total":304,"current":276}
+{"_e":"metro:bundling:progress","_t":1780522688014,"id":"1","progress":0.8406874195890144,"total":373,"current":342}
+{"_e":"metro:bundling:progress","_t":1780522688122,"id":"1","progress":0.912239351745325,"total":401,"current":383}
+{"_e":"metro:bundling:progress","_t":1780522688222,"id":"1","progress":0.9954390025228832,"total":438,"current":437}
+{"_e":"metro:bundling:progress","_t":1780522688409,"id":"1","progress":0.999,"total":438,"current":438}
+{"_e":"metro:bundling:progress","_t":1780522688509,"id":"1","progress":0.999,"total":453,"current":444}
+{"_e":"metro:bundling:progress","_t":1780522688621,"id":"1","progress":0.999,"total":453,"current":446}
+{"_e":"metro:bundling:progress","_t":1780522688742,"id":"1","progress":0.999,"total":453,"current":447}
+{"_e":"metro:bundling:progress","_t":1780522688883,"id":"1","progress":0.999,"total":453,"current":448}
+{"_e":"metro:bundling:progress","_t":1780522689030,"id":"1","progress":0.999,"total":453,"current":449}
+{"_e":"metro:bundling:done","_t":1780522689130,"id":"1","total":453,"ms":1845.677718}
+{"_e":"metro:client_log","_t":1780522689423,"level":"info","data":["%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools","font-weight:bold"]}
+{"_e":"metro:client_log","_t":1780522689424,"level":"warn","data":["\"shadow*\" style props are deprecated. Use \"boxShadow\"."]}
+{"_e":"metro:client_log","_t":1780522689425,"level":"log","data":["Running application \"main\" with appParams:\n","{\"hydrate\": undefined, \"rootTag\": \"#root\"}","\nDevelopment-level warnings: ON.\nPerformance optimizations: OFF."]}
+{"_e":"root:init","_t":1780522719791,"format":"v0-jsonl","version":"56.1.13"}
+{"_e":"env:mode","_t":1780522719792,"nodeEnv":"development","babelEnv":"development","mode":"development"}
+{"_e":"env:load","_t":1780522719794,"mode":"development","files":[],"env":{}}
+{"_e":"devserver:start","_t":1780522721612,"mode":"development","web":true,"baseUrl":"","asyncRoutes":false,"routerRoot":"../../../app","serverComponents":false,"serverActions":false,"serverRendering":false,"apiRoutes":false,"exporting":false}
+{"_e":"metro:config","_t":1780522721869,"serverRoot":"../../..","projectRoot":"../../..","exporting":false,"flags":{"autolinkingModuleResolution":false,"serverActions":false,"serverComponents":false,"reactCompiler":false,"optimizeGraph":false,"treeshaking":false,"logbox":false}}
+{"_e":"metro:instantiate","_t":1780522724270,"atlas":false,"workers":6,"host":"::","port":8082}
+{"_e":"metro:bundling:started","_t":1780522725280,"id":"1","platform":"web","environment":null,"entry":"index.ts"}
+{"_e":"metro:bundling:progress","_t":1780522725280,"id":"1","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1780522725288,"id":"1","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1780522725391,"id":"1","progress":0.03648529226107815,"total":89,"current":17}
+{"_e":"metro:bundling:progress","_t":1780522725493,"id":"1","progress":0.1924661810613944,"total":155,"current":68}
+{"_e":"metro:bundling:progress","_t":1780522725593,"id":"1","progress":0.38627958286376407,"total":251,"current":156}
+{"_e":"metro:bundling:progress","_t":1780522725693,"id":"1","progress":0.6558344531040043,"total":305,"current":247}
+{"_e":"metro:bundling:progress","_t":1780522725795,"id":"1","progress":0.6694214876033059,"total":363,"current":297}
+{"_e":"metro:bundling:progress","_t":1780522725895,"id":"1","progress":0.80078430903689,"total":409,"current":366}
+{"_e":"metro:bundling:progress","_t":1780522725995,"id":"1","progress":0.9203868554744229,"total":443,"current":425}
+{"_e":"metro:bundling:progress","_t":1780522726114,"id":"1","progress":0.999,"total":453,"current":453}
+{"_e":"metro:bundling:done","_t":1780522726200,"id":"1","total":453,"ms":920.061341}
+{"_e":"metro:client_log","_t":1780522726613,"level":"info","data":["%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools","font-weight:bold"]}
+{"_e":"metro:client_log","_t":1780522726614,"level":"warn","data":["\"shadow*\" style props are deprecated. Use \"boxShadow\"."]}
+{"_e":"metro:client_log","_t":1780522726614,"level":"log","data":["Running application \"main\" with appParams:\n","{\"hydrate\": undefined, \"rootTag\": \"#root\"}","\nDevelopment-level warnings: ON.\nPerformance optimizations: OFF."]}
+{"_e":"root:init","_t":1780522902695,"format":"v0-jsonl","version":"56.1.13"}
+{"_e":"env:mode","_t":1780522902696,"nodeEnv":"development","babelEnv":"development","mode":"development"}
+{"_e":"env:load","_t":1780522902697,"mode":"development","files":[],"env":{}}
+{"_e":"devserver:start","_t":1780522908834,"mode":"development","web":true,"baseUrl":"","asyncRoutes":false,"routerRoot":"../../../app","serverComponents":false,"serverActions":false,"serverRendering":false,"apiRoutes":false,"exporting":false}
+{"_e":"metro:config","_t":1780522909170,"serverRoot":"../../..","projectRoot":"../../..","exporting":false,"flags":{"autolinkingModuleResolution":false,"serverActions":false,"serverComponents":false,"reactCompiler":false,"optimizeGraph":false,"treeshaking":false,"logbox":false}}
+{"_e":"metro:instantiate","_t":1780522912031,"atlas":false,"workers":6,"host":"::","port":8082}
+{"_e":"metro:bundling:started","_t":1780522912423,"id":"1","platform":"web","environment":null,"entry":"index.ts"}
+{"_e":"metro:bundling:progress","_t":1780522912425,"id":"1","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1780522912432,"id":"1","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1780522912537,"id":"1","progress":0.057329894862130526,"total":71,"current":17}
+{"_e":"metro:bundling:progress","_t":1780522912642,"id":"1","progress":0.20897959183673467,"total":140,"current":64}
+{"_e":"metro:bundling:progress","_t":1780522912743,"id":"1","progress":0.366025,"total":200,"current":121}
+{"_e":"metro:bundling:progress","_t":1780522912844,"id":"1","progress":0.4994443681404438,"total":283,"current":200}
+{"_e":"metro:bundling:progress","_t":1780522912944,"id":"1","progress":0.6590155914657241,"total":356,"current":289}
+{"_e":"metro:bundling:progress","_t":1780522913044,"id":"1","progress":0.8527506238410294,"total":418,"current":386}
+{"_e":"metro:bundling:progress","_t":1780522913145,"id":"1","progress":0.9822225765306123,"total":448,"current":444}
+{"_e":"metro:bundling:done","_t":1780522913200,"id":"1","total":448,"ms":775.97003}
+{"_e":"metro:client_log","_t":1780522913432,"level":"info","data":["%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools","font-weight:bold"]}
+{"_e":"metro:client_log","_t":1780522913432,"level":"warn","data":["\"shadow*\" style props are deprecated. Use \"boxShadow\"."]}
+{"_e":"metro:client_log","_t":1780522913433,"level":"log","data":["Running application \"main\" with appParams:\n","{\"hydrate\": undefined, \"rootTag\": \"#root\"}","\nDevelopment-level warnings: ON.\nPerformance optimizations: OFF."]}
+{"_e":"metro:client_log","_t":1780522917153,"level":"warn","data":["Animated: `useNativeDriver` is not supported because the native animated module is missing. Falling back to JS-based animation. To resolve this, add `RCTAnimation` module to this app, or remove `useNativeDriver`. Make sure to run `bundle exec pod install` first. Read more about autolinking: https://github.com/react-native-community/cli/blob/master/docs/autolinking.md"]}
+{"_e":"metro:bundling:started","_t":1780522920652,"id":"4","platform":"web","environment":null,"entry":"index.ts"}
+{"_e":"metro:bundling:started","_t":1780523146115,"id":"5","platform":"web","environment":null,"entry":"paginas/paginaprincipal.tsx"}
+{"_e":"root:init","_t":1780523148903,"format":"v0-jsonl","version":"56.1.13"}
+{"_e":"env:mode","_t":1780523148903,"nodeEnv":"development","babelEnv":"development","mode":"development"}
+{"_e":"env:load","_t":1780523148905,"mode":"development","files":[],"env":{}}
+{"_e":"devserver:start","_t":1780523152797,"mode":"development","web":true,"baseUrl":"","asyncRoutes":false,"routerRoot":"../../../app","serverComponents":false,"serverActions":false,"serverRendering":false,"apiRoutes":false,"exporting":false}
+{"_e":"metro:config","_t":1780523153093,"serverRoot":"../../..","projectRoot":"../../..","exporting":false,"flags":{"autolinkingModuleResolution":false,"serverActions":false,"serverComponents":false,"reactCompiler":false,"optimizeGraph":false,"treeshaking":false,"logbox":false}}
+{"_e":"metro:instantiate","_t":1780523156646,"atlas":false,"workers":6,"host":"::","port":8082}
+{"_e":"metro:bundling:started","_t":1780523157936,"id":"2","platform":"web","environment":null,"entry":"index.ts"}
+{"_e":"metro:bundling:progress","_t":1780523157937,"id":"2","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1780523157942,"id":"2","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1780523158041,"id":"2","progress":0.057329894862130526,"total":71,"current":17}
+{"_e":"metro:bundling:progress","_t":1780523158141,"id":"2","progress":0.1877777777777778,"total":150,"current":65}
+{"_e":"metro:bundling:progress","_t":1780523158241,"id":"2","progress":0.3737317444967136,"total":247,"current":151}
+{"_e":"metro:bundling:progress","_t":1780523158341,"id":"2","progress":0.6778950929952532,"total":317,"current":261}
+{"_e":"metro:bundling:progress","_t":1780523158441,"id":"2","progress":0.7166209195176944,"total":404,"current":342}
+{"_e":"metro:bundling:progress","_t":1780523158586,"id":"2","progress":0.9821432162319773,"total":446,"current":442}
+{"_e":"metro:bundling:done","_t":1780523158683,"id":"2","total":446,"ms":746.873181}
+{"_e":"metro:bundling:started","_t":1780523158995,"id":"3","platform":"web","environment":null,"entry":"index.ts"}
+{"_e":"metro:client_log","_t":1780523159240,"level":"info","data":["%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools","font-weight:bold"]}
+{"_e":"metro:client_log","_t":1780523159241,"level":"warn","data":["\"shadow*\" style props are deprecated. Use \"boxShadow\"."]}
+{"_e":"metro:client_log","_t":1780523159242,"level":"log","data":["Running application \"main\" with appParams:\n","{\"hydrate\": undefined, \"rootTag\": \"#root\"}","\nDevelopment-level warnings: ON.\nPerformance optimizations: OFF."]}
+{"_e":"metro:client_log","_t":1780523228547,"level":"warn","data":["Animated: `useNativeDriver` is not supported because the native animated module is missing. Falling back to JS-based animation. To resolve this, add `RCTAnimation` module to this app, or remove `useNativeDriver`. Make sure to run `bundle exec pod install` first. Read more about autolinking: https://github.com/react-native-community/cli/blob/master/docs/autolinking.md"]}
+{"_e":"metro:bundling:started","_t":1780523274512,"id":"i","platform":"web","environment":null,"entry":"paginas/paginaprincipal.tsx"}
+{"_e":"metro:client_log","_t":1780523274811,"level":"warn","data":["An error occurred in the <Principal> component.\n\nConsider adding an error boundary to your tree to customize error handling behavior.\nVisit https://react.dev/link/error-boundaries to learn more about error boundaries.\n"]}
+{"_e":"metro:bundling:failed","_t":1780523288208,"id":null,"message":"SyntaxError: /home/line/Documentos/doceria/paginas/paginaprincipal.tsx: Identifier 'React' has already been declared. (16:7)\n\n  14 | import { NativeStackNavigationProp } from '@react-navigation/native-stack';\n  15 | import { CommonActions, useNavigation } from '@react-navigation/native';\n> 16 | import React, { useState, useRef, useCallback, useMemo } from 'react';\n     |        ^\n  17 |\n  18 | if (Platform.OS === 'android') {\n  19 |   UIManager.setLayoutAnimationEnabledExperimental?.(true);","importStack":null,"filename":"paginas/paginaprincipal.tsx","targetModuleName":null,"originModulePath":null}
+{"_e":"metro:bundling:failed","_t":1780523288396,"id":null,"message":"SyntaxError: /home/line/Documentos/doceria/paginas/paginaprincipal.tsx: Identifier 'React' has already been declared. (16:7)\n\n  14 | import { NativeStackNavigationProp } from '@react-navigation/native-stack';\n  15 | import { CommonActions, useNavigation } from '@react-navigation/native';\n> 16 | import React, { useState, useRef, useCallback, useMemo } from 'react';\n     |        ^\n  17 |\n  18 | if (Platform.OS === 'android') {\n  19 |   UIManager.setLayoutAnimationEnabledExperimental?.(true);","importStack":null,"filename":"paginas/paginaprincipal.tsx","targetModuleName":null,"originModulePath":null}
+{"_e":"metro:bundling:failed","_t":1780523288541,"id":null,"message":"SyntaxError: /home/line/Documentos/doceria/paginas/paginaprincipal.tsx: Identifier 'React' has already been declared. (16:7)\n\n  14 | import { NativeStackNavigationProp } from '@react-navigation/native-stack';\n  15 | import { CommonActions, useNavigation } from '@react-navigation/native';\n> 16 | import React, { useState, useRef, useCallback, useMemo } from 'react';\n     |        ^\n  17 |\n  18 | if (Platform.OS === 'android') {\n  19 |   UIManager.setLayoutAnimationEnabledExperimental?.(true);","importStack":null,"filename":"paginas/paginaprincipal.tsx","targetModuleName":null,"originModulePath":null}
+{"_e":"metro:bundling:started","_t":1780523308668,"id":"j","platform":"web","environment":null,"entry":"paginas/paginaprincipal.tsx"}
+{"_e":"metro:bundling:started","_t":1780523364306,"id":"k","platform":"web","environment":null,"entry":"paginas/paginaprincipal.tsx"}
+{"_e":"metro:bundling:started","_t":1780523387748,"id":"l","platform":"web","environment":null,"entry":"paginas/paginaprincipal.tsx"}
+{"_e":"metro:bundling:failed","_t":1780523410610,"id":null,"message":"Unable to resolve \"./comidas/coxinha.jpg\" from \"paginas/paginaprincipal.tsx\"\n  349 |     descricaoLonga: 'A coxinha perfeita: massa fina e crocante por fora, recheio generoso de frango desfiado temperado com especiarias. Frita na hora.',\n  350 |     preco: 'R$ 6,00',\n> 351 |     imagem: require('./comidas/coxinha.jpg'), // coloque uma imagem de coxinha\n      |                      ^\n  352 |     favorito: false,\n  353 |     categoria: 'Salgado',\n  354 |     destaque: true,","importStack":"\u001b[1mImport stack:\u001b[22m\n\n\u001b[90m \u001b[39mpaginas/paginaprincipal.tsx\n\u001b[90m |\u001b[39m \u001b[36mimport\u001b[39m \u001b[32m\"./comidas/coxinha.jpg\"\u001b[39m\n\n\u001b[90m \u001b[39m\n\u001b[90m |\u001b[39m \u001b[36mimport\u001b[39m \u001b[32m\"./paginas/paginaprincipal\"\u001b[39m\n","filename":null,"targetModuleName":"./comidas/coxinha.jpg","originModulePath":"paginas/paginaprincipal.tsx"}
+{"_e":"metro:bundling:failed","_t":1780523410632,"id":null,"message":"Unable to resolve \"./comidas/coxinha.jpg\" from \"paginas/paginaprincipal.tsx\"\n  349 |     descricaoLonga: 'A coxinha perfeita: massa fina e crocante por fora, recheio generoso de frango desfiado temperado com especiarias. Frita na hora.',\n  350 |     preco: 'R$ 6,00',\n> 351 |     imagem: require('./comidas/coxinha.jpg'), // coloque uma imagem de coxinha\n      |                      ^\n  352 |     favorito: false,\n  353 |     categoria: 'Salgado',\n  354 |     destaque: true,","importStack":"\u001b[1mImport stack:\u001b[22m\n\n\u001b[90m \u001b[39mpaginas/paginaprincipal.tsx\n\u001b[90m |\u001b[39m \u001b[36mimport\u001b[39m \u001b[32m\"./comidas/coxinha.jpg\"\u001b[39m\n\n\u001b[90m \u001b[39m\n\u001b[90m |\u001b[39m \u001b[36mimport\u001b[39m \u001b[32m\"./paginas/paginaprincipal\"\u001b[39m\n","filename":null,"targetModuleName":"./comidas/coxinha.jpg","originModulePath":"paginas/paginaprincipal.tsx"}
+{"_e":"metro:bundling:failed","_t":1780523410809,"id":null,"message":"Unable to resolve \"./comidas/coxinha.jpg\" from \"paginas/paginaprincipal.tsx\"\n  349 |     descricaoLonga: 'A coxinha perfeita: massa fina e crocante por fora, recheio generoso de frango desfiado temperado com especiarias. Frita na hora.',\n  350 |     preco: 'R$ 6,00',\n> 351 |     imagem: require('./comidas/coxinha.jpg'), // coloque uma imagem de coxinha\n      |                      ^\n  352 |     favorito: false,\n  353 |     categoria: 'Salgado',\n  354 |     destaque: true,","importStack":"\u001b[1mImport stack:\u001b[22m\n\n\u001b[90m \u001b[39mpaginas/paginaprincipal.tsx\n\u001b[90m |\u001b[39m \u001b[36mimport\u001b[39m \u001b[32m\"./comidas/coxinha.jpg\"\u001b[39m\n\n\u001b[90m \u001b[39m\n\u001b[90m |\u001b[39m \u001b[36mimport\u001b[39m \u001b[32m\"./paginas/paginaprincipal\"\u001b[39m\n","filename":null,"targetModuleName":"./comidas/coxinha.jpg","originModulePath":"paginas/paginaprincipal.tsx"}
+{"_e":"metro:bundling:started","_t":1780523415935,"id":"m","platform":"web","environment":null,"entry":"index.ts"}
+{"_e":"metro:bundling:progress","_t":1780523415941,"id":"m","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1780523415943,"id":"m","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:failed","_t":1780523415968,"id":"m","message":"Unable to resolve \"./comidas/coxinha.jpg\" from \"paginas/paginaprincipal.tsx\"\n  349 |     descricaoLonga: 'A coxinha perfeita: massa fina e crocante por fora, recheio generoso de frango desfiado temperado com especiarias. Frita na hora.',\n  350 |     preco: 'R$ 6,00',\n> 351 |     imagem: require('./comidas/coxinha.jpg'), // coloque uma imagem de coxinha\n      |                      ^\n  352 |     favorito: false,\n  353 |     categoria: 'Salgado',\n  354 |     destaque: true,","importStack":"\u001b[1mImport stack:\u001b[22m\n\n\u001b[90m \u001b[39mpaginas/paginaprincipal.tsx\n\u001b[90m |\u001b[39m \u001b[36mimport\u001b[39m \u001b[32m\"./comidas/coxinha.jpg\"\u001b[39m\n\n\u001b[90m \u001b[39m\n\u001b[90m |\u001b[39m \u001b[36mimport\u001b[39m \u001b[32m\"./paginas/paginaprincipal\"\u001b[39m\n","filename":null,"targetModuleName":"./comidas/coxinha.jpg","originModulePath":"paginas/paginaprincipal.tsx"}
+{"_e":"metro:bundling:started","_t":1780523571920,"id":"q","platform":"web","environment":null,"entry":"index.ts"}
+{"_e":"metro:bundling:progress","_t":1780523571920,"id":"q","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1780523571923,"id":"q","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1780523572085,"id":"q","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:failed","_t":1780523572114,"id":"q","message":"Unable to resolve \"./comidas/pao-queijo.jpg\" from \"paginas/paginaprincipal.tsx\"\n  397 |     descricaoLonga: 'Pão de queijo mineiro tradicional, com polvilho azedo e queijo meia cura. Crocante por fora, elástico e queijudo por dentro.',\n  398 |     preco: 'R$ 3,00',\n> 399 |     imagem: require('./comidas/pao-queijo.jpg'), // coloque uma imagem de pão de queijo\n      |                      ^\n  400 |     favorito: true,\n  401 |     categoria: 'Salgado',\n  402 |     destaque: false,","importStack":"\u001b[1mImport stack:\u001b[22m\n\n\u001b[90m \u001b[39mpaginas/paginaprincipal.tsx\n\u001b[90m |\u001b[39m \u001b[36mimport\u001b[39m \u001b[32m\"./comidas/pao-queijo.jpg\"\u001b[39m\n\n\u001b[90m \u001b[39m\n\u001b[90m |\u001b[39m \u001b[36mimport\u001b[39m \u001b[32m\"./paginas/paginaprincipal\"\u001b[39m\n","filename":null,"targetModuleName":"./comidas/pao-queijo.jpg","originModulePath":"paginas/paginaprincipal.tsx"}
+{"_e":"metro:bundling:started","_t":1780523585150,"id":"t","platform":"web","environment":null,"entry":"index.ts"}
+{"_e":"metro:bundling:progress","_t":1780523585154,"id":"t","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1780523585156,"id":"t","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1780523585344,"id":"t","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1780523585444,"id":"t","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1780523585952,"id":"t","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:done","_t":1780523585992,"id":"t","total":1,"ms":837.702317}
+{"_e":"metro:bundling:started","_t":1780523586216,"id":"u","platform":"web","environment":null,"entry":"index.ts"}
+{"_e":"metro:client_log","_t":1780523586380,"level":"info","data":["%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools","font-weight:bold"]}
+{"_e":"metro:client_log","_t":1780523586380,"level":"warn","data":["\"shadow*\" style props are deprecated. Use \"boxShadow\"."]}
+{"_e":"metro:client_log","_t":1780523586381,"level":"log","data":["Running application \"main\" with appParams:\n","{\"hydrate\": undefined, \"rootTag\": \"#root\"}","\nDevelopment-level warnings: ON.\nPerformance optimizations: OFF."]}
+{"_e":"metro:bundling:started","_t":1780523676708,"id":"1g","platform":"web","environment":null,"entry":"index.ts"}
+{"_e":"metro:bundling:started","_t":1780523785097,"id":"1m","platform":"web","environment":null,"entry":"paginas/direct.tsx"}
+{"_e":"metro:bundling:started","_t":1780523794169,"id":"1n","platform":"web","environment":null,"entry":"paginas/login.tsx"}
+{"_e":"metro:bundling:started","_t":1780523797738,"id":"1o","platform":"web","environment":null,"entry":"index.ts"}
+{"_e":"metro:bundling:progress","_t":1780523797739,"id":"1o","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:done","_t":1780523797773,"id":"1o","total":1,"ms":34.080359}
+{"_e":"metro:bundling:started","_t":1780523798035,"id":"1q","platform":"web","environment":null,"entry":"index.ts"}
+{"_e":"metro:client_log","_t":1780523798201,"level":"info","data":["%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools","font-weight:bold"]}
+{"_e":"metro:client_log","_t":1780523798210,"level":"warn","data":["\"shadow*\" style props are deprecated. Use \"boxShadow\"."]}
+{"_e":"metro:client_log","_t":1780523798211,"level":"log","data":["Running application \"main\" with appParams:\n","{\"hydrate\": undefined, \"rootTag\": \"#root\"}","\nDevelopment-level warnings: ON.\nPerformance optimizations: OFF."]}
+{"_e":"metro:bundling:started","_t":1780523835943,"id":"1t","platform":"web","environment":null,"entry":"index.ts"}
+{"_e":"metro:bundling:started","_t":1780523953329,"id":"1u","platform":"web","environment":null,"entry":"paginas/direct.tsx"}
+{"_e":"metro:bundling:started","_t":1780523995121,"id":"1v","platform":"web","environment":null,"entry":"paginas/paginaprincipal.tsx"}
+{"_e":"metro:bundling:failed","_t":1780524026486,"id":"q","message":"SyntaxError: /home/line/Documentos/doceria/paginas/paginaprincipal.tsx: Unexpected token (428:2)\n\n  426 |\n  427 | export default function Principal({ onLogout }: Props) {\n> 428 |   ...\n      |   ^\n  429 |   // Substitua a função irParaLogin por:\n  430 |   const irParaLogin = useCallback(() => {\n  431 |     if (onLogout) onLogout();","importStack":null,"filename":"paginas/paginaprincipal.tsx","targetModuleName":null,"originModulePath":null}
+{"_e":"metro:bundling:failed","_t":1780524026697,"id":"q","message":"SyntaxError: /home/line/Documentos/doceria/paginas/paginaprincipal.tsx: Unexpected token (428:2)\n\n  426 |\n  427 | export default function Principal({ onLogout }: Props) {\n> 428 |   ...\n      |   ^\n  429 |   // Substitua a função irParaLogin por:\n  430 |   const irParaLogin = useCallback(() => {\n  431 |     if (onLogout) onLogout();","importStack":null,"filename":"paginas/paginaprincipal.tsx","targetModuleName":null,"originModulePath":null}
+{"_e":"metro:bundling:failed","_t":1780524026877,"id":"q","message":"SyntaxError: /home/line/Documentos/doceria/paginas/paginaprincipal.tsx: Unexpected token (428:2)\n\n  426 |\n  427 | export default function Principal({ onLogout }: Props) {\n> 428 |   ...\n      |   ^\n  429 |   // Substitua a função irParaLogin por:\n  430 |   const irParaLogin = useCallback(() => {\n  431 |     if (onLogout) onLogout();","importStack":null,"filename":"paginas/paginaprincipal.tsx","targetModuleName":null,"originModulePath":null}
+{"_e":"metro:bundling:failed","_t":1780524047886,"id":"q","message":"SyntaxError: /home/line/Documentos/doceria/paginas/paginaprincipal.tsx: 'return' outside of function. (576:2)\n\n  574 |   }, [expandedId, favoritos, categoriaAtiva, showToast, toggleExpand, toggleFavorito, irParaLogin, navigation]);\n  575 |\n> 576 |   return (\n      |   ^\n  577 |     <View style={styles.container}>\n  578 |       <FlatList\n  579 |         data={dadosComHeaderFooter}","importStack":null,"filename":"paginas/paginaprincipal.tsx","targetModuleName":null,"originModulePath":null}
+{"_e":"metro:bundling:failed","_t":1780524048086,"id":"q","message":"SyntaxError: /home/line/Documentos/doceria/paginas/paginaprincipal.tsx: 'return' outside of function. (576:2)\n\n  574 |   }, [expandedId, favoritos, categoriaAtiva, showToast, toggleExpand, toggleFavorito, irParaLogin, navigation]);\n  575 |\n> 576 |   return (\n      |   ^\n  577 |     <View style={styles.container}>\n  578 |       <FlatList\n  579 |         data={dadosComHeaderFooter}","importStack":null,"filename":"paginas/paginaprincipal.tsx","targetModuleName":null,"originModulePath":null}
+{"_e":"metro:bundling:failed","_t":1780524048216,"id":"q","message":"SyntaxError: /home/line/Documentos/doceria/paginas/paginaprincipal.tsx: 'return' outside of function. (576:2)\n\n  574 |   }, [expandedId, favoritos, categoriaAtiva, showToast, toggleExpand, toggleFavorito, irParaLogin, navigation]);\n  575 |\n> 576 |   return (\n      |   ^\n  577 |     <View style={styles.container}>\n  578 |       <FlatList\n  579 |         data={dadosComHeaderFooter}","importStack":null,"filename":"paginas/paginaprincipal.tsx","targetModuleName":null,"originModulePath":null}
+{"_e":"metro:bundling:failed","_t":1780524048425,"id":"q","message":"SyntaxError: /home/line/Documentos/doceria/paginas/paginaprincipal.tsx: 'return' outside of function. (576:2)\n\n  574 |   }, [expandedId, favoritos, categoriaAtiva, showToast, toggleExpand, toggleFavorito, irParaLogin, navigation]);\n  575 |\n> 576 |   return (\n      |   ^\n  577 |     <View style={styles.container}>\n  578 |       <FlatList\n  579 |         data={dadosComHeaderFooter}","importStack":null,"filename":"paginas/paginaprincipal.tsx","targetModuleName":null,"originModulePath":null}
+{"_e":"metro:bundling:failed","_t":1780524055434,"id":"q","message":"SyntaxError: /home/line/Documentos/doceria/paginas/paginaprincipal.tsx: 'return' outside of function. (576:2)\n\n  574 |   }, [expandedId, favoritos, categoriaAtiva, showToast, toggleExpand, toggleFavorito, irParaLogin, navigation]);\n  575 |\n> 576 |   return (\n      |   ^\n  577 |     <View style={styles.container}>\n  578 |       <FlatList\n  579 |         data={dadosComHeaderFooter}","importStack":null,"filename":"paginas/paginaprincipal.tsx","targetModuleName":null,"originModulePath":null}
+{"_e":"metro:bundling:failed","_t":1780524055644,"id":"q","message":"SyntaxError: /home/line/Documentos/doceria/paginas/paginaprincipal.tsx: 'return' outside of function. (576:2)\n\n  574 |   }, [expandedId, favoritos, categoriaAtiva, showToast, toggleExpand, toggleFavorito, irParaLogin, navigation]);\n  575 |\n> 576 |   return (\n      |   ^\n  577 |     <View style={styles.container}>\n  578 |       <FlatList\n  579 |         data={dadosComHeaderFooter}","importStack":null,"filename":"paginas/paginaprincipal.tsx","targetModuleName":null,"originModulePath":null}
+{"_e":"metro:bundling:failed","_t":1780524055800,"id":"q","message":"SyntaxError: /home/line/Documentos/doceria/paginas/paginaprincipal.tsx: 'return' outside of function. (576:2)\n\n  574 |   }, [expandedId, favoritos, categoriaAtiva, showToast, toggleExpand, toggleFavorito, irParaLogin, navigation]);\n  575 |\n> 576 |   return (\n      |   ^\n  577 |     <View style={styles.container}>\n  578 |       <FlatList\n  579 |         data={dadosComHeaderFooter}","importStack":null,"filename":"paginas/paginaprincipal.tsx","targetModuleName":null,"originModulePath":null}
+{"_e":"metro:bundling:started","_t":1780524246862,"id":"1w","platform":"web","environment":null,"entry":"paginas/paginaprincipal.tsx"}
+{"_e":"metro:bundling:started","_t":1780524370983,"id":"1x","platform":"web","environment":null,"entry":"paginas/paginaprincipal.tsx"}
+{"_e":"metro:bundling:started","_t":1780524384853,"id":"2e","platform":"web","environment":null,"entry":"paginas/paginaprincipal.tsx"}
+{"_e":"metro:bundling:started","_t":1780524462251,"id":"2f","platform":"web","environment":null,"entry":"paginas/direct.tsx"}
+{"_e":"metro:bundling:started","_t":1780524469256,"id":"2g","platform":"web","environment":null,"entry":"index.ts"}
+{"_e":"metro:bundling:progress","_t":1780524469257,"id":"2g","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:done","_t":1780524469334,"id":"2g","total":1,"ms":77.326679}
+{"_e":"metro:bundling:started","_t":1780524469605,"id":"2i","platform":"web","environment":null,"entry":"index.ts"}
+{"_e":"metro:client_log","_t":1780524469878,"level":"info","data":["%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools","font-weight:bold"]}
+{"_e":"metro:client_log","_t":1780524469878,"level":"warn","data":["\"shadow*\" style props are deprecated. Use \"boxShadow\"."]}
+{"_e":"metro:client_log","_t":1780524469878,"level":"log","data":["Running application \"main\" with appParams:\n","{\"hydrate\": undefined, \"rootTag\": \"#root\"}","\nDevelopment-level warnings: ON.\nPerformance optimizations: OFF."]}
+{"_e":"root:init","_t":1780524553810,"format":"v0-jsonl","version":"56.1.13"}
+{"_e":"env:mode","_t":1780524553811,"nodeEnv":"development","babelEnv":"development","mode":"development"}
+{"_e":"env:load","_t":1780524553813,"mode":"development","files":[],"env":{}}
+{"_e":"devserver:start","_t":1780524557910,"mode":"development","web":true,"baseUrl":"","asyncRoutes":false,"routerRoot":"../../../app","serverComponents":false,"serverActions":false,"serverRendering":false,"apiRoutes":false,"exporting":false}
+{"_e":"metro:config","_t":1780524558163,"serverRoot":"../../..","projectRoot":"../../..","exporting":false,"flags":{"autolinkingModuleResolution":false,"serverActions":false,"serverComponents":false,"reactCompiler":false,"optimizeGraph":false,"treeshaking":false,"logbox":false}}
+{"_e":"metro:instantiate","_t":1780524561298,"atlas":false,"workers":6,"host":"::","port":8082}
+{"_e":"metro:bundling:started","_t":1780524561840,"id":"2","platform":"web","environment":null,"entry":"index.ts"}
+{"_e":"metro:bundling:progress","_t":1780524561841,"id":"2","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1780524561850,"id":"2","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1780524561953,"id":"2","progress":0.05224489795918367,"total":70,"current":16}
+{"_e":"metro:bundling:progress","_t":1780524562053,"id":"2","progress":0.27700831024930744,"total":114,"current":60}
+{"_e":"metro:bundling:progress","_t":1780524562155,"id":"2","progress":0.27700831024930744,"total":165,"current":70}
+{"_e":"metro:bundling:progress","_t":1780524562255,"id":"2","progress":0.32653061224489793,"total":182,"current":104}
+{"_e":"metro:bundling:progress","_t":1780524562354,"id":"2","progress":0.36203677104280374,"total":236,"current":142}
+{"_e":"metro:bundling:progress","_t":1780524562454,"id":"2","progress":0.41068240428486413,"total":284,"current":182}
+{"_e":"metro:bundling:progress","_t":1780524562555,"id":"2","progress":0.6467647699230658,"total":332,"current":267}
+{"_e":"metro:bundling:progress","_t":1780524562654,"id":"2","progress":0.746673241288626,"total":390,"current":337}
+{"_e":"metro:bundling:progress","_t":1780524562754,"id":"2","progress":0.9080466126405116,"total":446,"current":425}
+{"_e":"metro:bundling:done","_t":1780524562883,"id":"2","total":446,"ms":1042.831858}
+{"_e":"metro:bundling:started","_t":1780524563133,"id":"3","platform":"web","environment":null,"entry":"index.ts"}
+{"_e":"metro:client_log","_t":1780524563356,"level":"info","data":["%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools","font-weight:bold"]}
+{"_e":"metro:client_log","_t":1780524563357,"level":"warn","data":["\"shadow*\" style props are deprecated. Use \"boxShadow\"."]}
+{"_e":"metro:client_log","_t":1780524563358,"level":"log","data":["Running application \"main\" with appParams:\n","{\"hydrate\": undefined, \"rootTag\": \"#root\"}","\nDevelopment-level warnings: ON.\nPerformance optimizations: OFF."]}
+{"_e":"metro:bundling:started","_t":1780524609643,"id":"5","platform":"web","environment":null,"entry":"paginas/cadastro.tsx"}
+{"_e":"metro:bundling:started","_t":1780524611221,"id":"7","platform":"web","environment":null,"entry":"index.ts"}
+{"_e":"metro:bundling:progress","_t":1780524611221,"id":"7","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:done","_t":1780524611250,"id":"7","total":1,"ms":28.803034}
+{"_e":"metro:bundling:started","_t":1780524611540,"id":"8","platform":"web","environment":null,"entry":"index.ts"}
+{"_e":"metro:client_log","_t":1780524611823,"level":"info","data":["%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools","font-weight:bold"]}
+{"_e":"metro:client_log","_t":1780524611823,"level":"warn","data":["\"shadow*\" style props are deprecated. Use \"boxShadow\"."]}
+{"_e":"metro:client_log","_t":1780524611824,"level":"log","data":["Running application \"main\" with appParams:\n","{\"hydrate\": undefined, \"rootTag\": \"#root\"}","\nDevelopment-level warnings: ON.\nPerformance optimizations: OFF."]}
+{"_e":"metro:bundling:started","_t":1780524660825,"id":"a","platform":"web","environment":null,"entry":"paginas/login.tsx"}
+{"_e":"metro:bundling:started","_t":1780524809432,"id":"g","platform":"web","environment":null,"entry":"paginas/sobre.tsx"}
+{"_e":"metro:bundling:started","_t":1780524853759,"id":"s","platform":"web","environment":null,"entry":"paginas/paginaprincipal.tsx"}
+{"_e":"metro:bundling:started","_t":1780524867581,"id":"t","platform":"web","environment":null,"entry":"paginas/sobre.tsx"}
+{"_e":"metro:bundling:started","_t":1780525097008,"id":"1a","platform":"web","environment":null,"entry":"paginas/login.tsx"}
